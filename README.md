@@ -85,6 +85,7 @@ Dans cette étape, vous êtes orientés vers la classe « sklearn.neighbors » p
 Vous êtes censés à préparer un modèle performant pour notre application tout en respectant les consignes de la conception d’un modèle IA (Data préparée, K-fold validation, hyperparamètre, Gridsearch). (N’oubliez pas de présenter une comparaison entre KNN From Scratch et KNN Sklearn dans le compte rendu).
 ​
 
+
 ## Partie 3 : Mettre en place la solution dans l’application de test de personnalité
 
 ​
