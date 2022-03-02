@@ -1,4 +1,4 @@
-# <center> Projet 7 : KNN </center>
+#  Projet 7 : KNN 
 Dernière mise à jour : 02/03/22
 ---
 
