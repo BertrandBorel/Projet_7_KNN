@@ -7,6 +7,8 @@ Dernière mise à jour : 02/03/22
 - 1 Rapport projet détaillant la conception du csv
 - 1 le csv qui constitue notre dataframe
 - 1 Rapport projet détaillant le script
+- 1 fichier 'kNN.sav' qui contient le modèle entraîné
+- 1 fichier 'Test_kNN.py' qui contient le test de personnalité
 
 ---
 
