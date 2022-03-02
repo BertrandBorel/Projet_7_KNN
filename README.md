@@ -1,10 +1,13 @@
 # Projet_7_KNN
+---
 
 ## Contenu :
 - 1 notebook contenant le script du projet 
 - 1 Rapport projet détaillant la conception du csv
 - 1 le csv qui constitue notre dataframe
 - 1 Rapport projet détaillant le script
+
+---
 
 ##  Contexte du projet
 Cet atelier a pour objectif de vous initier aux techniques de classification supervisé sous Python, plus précisément, nous allons manipuler le classifieur KNN, autrement dit : K plus proche voisin.
