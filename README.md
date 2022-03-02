@@ -5,7 +5,7 @@ Dernière mise à jour : 02/03/22
 ## Contenu :
 - 1 notebook contenant le script du projet 
 - 1 Rapport projet détaillant la conception du csv
-- 1 le csv qui constitue notre dataframe
+- 1 fichier csv qui constitue notre dataframe
 - 1 Rapport projet détaillant le script
 - 1 fichier 'kNN.sav' qui contient le modèle entraîné
 - 1 fichier 'Test_kNN.py' qui contient le test de personnalité
